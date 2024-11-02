@@ -3,4 +3,5 @@ function Home(){
     
 }
 
+
 export default Home; //exportando a função home para fora do projeto
